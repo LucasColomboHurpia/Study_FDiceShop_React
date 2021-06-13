@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Study_FDiceShop_React/static/css/main.ee3ca071.chunk.css",
+    "main.js": "/Study_FDiceShop_React/static/js/main.93bd23ee.chunk.js",
+    "main.js.map": "/Study_FDiceShop_React/static/js/main.93bd23ee.chunk.js.map",
+    "runtime-main.js": "/Study_FDiceShop_React/static/js/runtime-main.235ba86d.js",
+    "runtime-main.js.map": "/Study_FDiceShop_React/static/js/runtime-main.235ba86d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Study_FDiceShop_React/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.059893fa.chunk.js": "/Study_FDiceShop_React/static/js/2.059893fa.chunk.js",
+    "static/js/2.059893fa.chunk.js.map": "/Study_FDiceShop_React/static/js/2.059893fa.chunk.js.map",
+    "static/js/3.c72e8ff2.chunk.js": "/Study_FDiceShop_React/static/js/3.c72e8ff2.chunk.js",
+    "static/js/3.c72e8ff2.chunk.js.map": "/Study_FDiceShop_React/static/js/3.c72e8ff2.chunk.js.map",
+    "index.html": "/Study_FDiceShop_React/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Study_FDiceShop_React/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ee3ca071.chunk.css.map": "/Study_FDiceShop_React/static/css/main.ee3ca071.chunk.css.map",
+    "static/js/2.059893fa.chunk.js.LICENSE.txt": "/Study_FDiceShop_React/static/js/2.059893fa.chunk.js.LICENSE.txt",
+    "static/media/1banner.05cc7532.png": "/Study_FDiceShop_React/static/media/1banner.05cc7532.png",
+    "static/media/2banner.b1c76238.png": "/Study_FDiceShop_React/static/media/2banner.b1c76238.png",
+    "static/media/D8.e8931c01.jpg": "/Study_FDiceShop_React/static/media/D8.e8931c01.jpg",
+    "static/media/DicebgBanner.34b76b9d.jpg": "/Study_FDiceShop_React/static/media/DicebgBanner.34b76b9d.jpg",
+    "static/media/elements.css": "/Study_FDiceShop_React/static/media/GrassmarketMono-0.5a544791.jpg",
+    "static/media/YTICON.82371428.jpg": "/Study_FDiceShop_React/static/media/YTICON.82371428.jpg",
+    "static/media/blueDiceSet.1dd3a593.jpg": "/Study_FDiceShop_React/static/media/blueDiceSet.1dd3a593.jpg",
+    "static/media/dice+ChainMail.b69c9f41.jpg": "/Study_FDiceShop_React/static/media/dice+ChainMail.b69c9f41.jpg",
+    "static/media/setDiceCase.c6853b35.PNG": "/Study_FDiceShop_React/static/media/setDiceCase.c6853b35.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.235ba86d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.059893fa.chunk.js",
+    "static/css/main.ee3ca071.chunk.css",
+    "static/js/main.93bd23ee.chunk.js"
+  ]
+}
