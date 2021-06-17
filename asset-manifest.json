@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Study_FDiceShop_React/static/css/main.da548f9d.chunk.css",
-    "main.js": "/Study_FDiceShop_React/static/js/main.93bd23ee.chunk.js",
-    "main.js.map": "/Study_FDiceShop_React/static/js/main.93bd23ee.chunk.js.map",
+    "main.css": "/Study_FDiceShop_React/static/css/main.36ee7e5a.chunk.css",
+    "main.js": "/Study_FDiceShop_React/static/js/main.c0383537.chunk.js",
+    "main.js.map": "/Study_FDiceShop_React/static/js/main.c0383537.chunk.js.map",
     "runtime-main.js": "/Study_FDiceShop_React/static/js/runtime-main.235ba86d.js",
     "runtime-main.js.map": "/Study_FDiceShop_React/static/js/runtime-main.235ba86d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Study_FDiceShop_React/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.c72e8ff2.chunk.js.map": "/Study_FDiceShop_React/static/js/3.c72e8ff2.chunk.js.map",
     "index.html": "/Study_FDiceShop_React/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Study_FDiceShop_React/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.da548f9d.chunk.css.map": "/Study_FDiceShop_React/static/css/main.da548f9d.chunk.css.map",
+    "static/css/main.36ee7e5a.chunk.css.map": "/Study_FDiceShop_React/static/css/main.36ee7e5a.chunk.css.map",
     "static/js/2.059893fa.chunk.js.LICENSE.txt": "/Study_FDiceShop_React/static/js/2.059893fa.chunk.js.LICENSE.txt",
     "static/media/1banner.05cc7532.png": "/Study_FDiceShop_React/static/media/1banner.05cc7532.png",
     "static/media/2banner.b1c76238.png": "/Study_FDiceShop_React/static/media/2banner.b1c76238.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.235ba86d.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.059893fa.chunk.js",
-    "static/css/main.da548f9d.chunk.css",
-    "static/js/main.93bd23ee.chunk.js"
+    "static/css/main.36ee7e5a.chunk.css",
+    "static/js/main.c0383537.chunk.js"
   ]
 }
